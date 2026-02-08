@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/samples/">
+    <Project Path="samples/CommandFlow.Example.WebAPI/CommandFlow.Example.WebAPI.csproj" Id="a60f6a2c-c113-42f4-a3ce-ca015a4c0302" />
+  </Folder>
+  <Folder Name="/solutionItems/">
+    <File Path=".editorconfig" />
+    <File Path=".gitignore" />
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/CommandFlow.Core/CommandFlow.Core.csproj" />
+  </Folder>
+</Solution>
